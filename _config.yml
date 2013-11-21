@@ -1,0 +1,5 @@
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
+
+name: Ralph's Personal Pages
+markdown: redcarpet
+pygments: true
